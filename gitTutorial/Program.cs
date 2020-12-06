@@ -12,6 +12,7 @@ namespace gitTutorial
         {
             //abc
             //new line
+            Console.Writeline("Them tu git")//Them vao tu git
         }
     }
 }
