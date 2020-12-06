@@ -14,6 +14,7 @@ namespace gitTutorial
             //new line
             //Console.Writeline("Them tu git")//Them vao tu git
             Console.WriteLine("Them tu git,lam cho bi conflict");//Sai l,thieu ;
+            Console.ReadLine();//Them dong moi de conflict
         }
     }
 }
