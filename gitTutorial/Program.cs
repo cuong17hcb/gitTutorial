@@ -13,7 +13,7 @@ namespace gitTutorial
             //abc
             //new line
             //Console.Writeline("Them tu git")//Them vao tu git
-            Console.WriteLine("Them tu git");//Sai l,thieu ;
+            Console.WriteLine("Them tu git,lam cho bi conflict");//Sai l,thieu ;
         }
     }
 }
